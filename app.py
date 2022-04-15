@@ -1,4 +1,4 @@
 def demo():
-    return 'hello world'
+    return 'HELLO WORLD'
 
 demo()
